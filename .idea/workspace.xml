@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cf5e942-8f91-4e0a-b275-c1a477fa7137" name="Default Changelist" comment="" />
+    <list default="true" id="1cf5e942-8f91-4e0a-b275-c1a477fa7137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZpltzZ8XmzwvirsYah6fOsc40M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
@@ -160,10 +168,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586242981902">
+    <state x="275" y="22" key="#Notifications" timestamp="1588008144935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586242981902" />
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588008144935" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588007622586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588007622586" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588009748016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588009748016" />
     <state x="545" y="257" key="Github.ShareDialog" timestamp="1587981185097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -188,6 +204,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="228" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752829363" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588008120256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588008120256" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585632369304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
