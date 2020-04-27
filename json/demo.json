@@ -1,0 +1,10 @@
+{
+    "name": "Manoj",
+    "age": 24,
+    "city": "Delhi",
+    "items": [
+        "mobile",
+        "laptop",
+        "headphone"
+    ]
+}
