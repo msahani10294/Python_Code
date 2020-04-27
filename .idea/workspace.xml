@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cf5e942-8f91-4e0a-b275-c1a477fa7137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,17 +164,29 @@
       <option name="presentableId" value="Default" />
       <updated>1585544134573</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1588009945633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588009945701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1588008144935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588008144935" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588007622586">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588009940773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588007622586" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588009940773" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588009748016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -204,10 +215,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="228" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585752829363" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588008120256">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588010032660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588008120256" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588010032660" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585632369304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
